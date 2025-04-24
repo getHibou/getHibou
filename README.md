@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is João Pedro, I have a degree in Information Technology Management, a postgraduate degree in Data Analysis and Applied Mathematics and in Business Management, I am an undergraduate and master's student in Computer Science.
+My name is João Pedro, I have a degree in Information Technology Management, a postgraduate degree in Data Analysis and Applied Mathematics and in Business Management, I am an undergraduate and master's student in Computer Science and a postgraduate student in Biotechnology.
 
-If you are looking for a developer who can bring technical skills and a strong commitment to productivity and innovation, please contact me. I'd be delighted to discuss how I can contribute to your team's success. 
-
-For the time being, my GitHub is somewhat archaic in terms of projects, due to my heavy workload with the end of my second degree and the focus I've been giving to my master's research.
+For the time being, my GitHub and my portfolio are somewhat archaic in terms of projects, due to the focus I'm giving to the final part of my second degree and my master's degree. I'll be back with new projects soon.
 
 Below you can contact me by email, see my profile on LinkedIn or see what I'm writing on Medium :)
 
