@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm João Pedro  
 
-🎓 I hold a Bachelor's and a Master's degree in Computer Science (UFMA), a degree in Information Technology Management (UNICSUL), and postgraduate studies in Data Analysis and Applied Mathematics (UNYLEYA), Business Management (UNICSUL), and I am currently completing my postgraduate degree in Biotechnology (UNYLEYA).
+🎓 I hold a **Bachelor's and a Master's degree in Computer Science (UFMA)**, a **degree in Information Technology Management (UNICSUL)**, and **postgraduate studies in Data Analysis and Applied Mathematics (UNYLEYA)**, **Business Management (UNICSUL)**, and I am currently completing my **postgraduate degree in Biotechnology (UNYLEYA)**.  
 
 🔬 My professional focus is on **Artificial Intelligence (AI)**, **Data Science**, **Large Language Models (LLMs)**, and **Generative AI (GenAI)** combining a strong academic background with practical experience in developing and implementing machine learning–based solutions.  
 
@@ -8,15 +8,13 @@
 
 ✨ Currently, I’m consolidating my academic journey and preparing to bring **new, solid projects** to my GitHub.  
 
----
+##
 
 <div align="center"> 
 <a href = "mailto:eendevJP@proton.me"> <img src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/joaopedrocazevedo/"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://medium.com/@eenleser"> <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</div>
-
----
+</div>  
 
 ## ⚡ Skills  
 
@@ -30,8 +28,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
 
 ### 🧠 Machine Learning, AI & Data Science  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -52,8 +48,6 @@
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Weights&Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
----
-
 ### 🗄️ Databases & Tools  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -65,14 +59,9 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
 ### 🌱 Currently Learning  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
 
 ⭐ Always open to collaborations on **AI Research**, **Machine Learning Applications**, and **Open Source Projects**.  
