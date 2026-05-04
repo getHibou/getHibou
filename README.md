@@ -16,15 +16,6 @@
 
 PhD student in Computer Science (UFMA/UFPI) with a strong academic background in Artificial Intelligence, Large Language Models (LLMs), and Generative AI. My academic interests include text classification, explainability in AI (XAI), and semi-supervised learning with applications at the intersection of NLP, mental health, and generative AI.
 
-```python
-joao_pedro = {
-    "focus":     ["AI Research", "LLMs", "GenAI", "Data Science"],
-    "research":  ["Text Classification", "XAI", "Semi-supervised Learning"],
-    "status":    "PhD candidate @ UFMA/UFPI",
-    "open_to":   ["AI Research", "ML Applications", "Open Source"],
-}
-```
-
 ---
 
 ## 🎓 Academic Background
