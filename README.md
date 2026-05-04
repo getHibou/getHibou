@@ -24,7 +24,7 @@ PhD student in Computer Science (UFMA/UFPI) with a strong academic background in
 |--------|--------|-------------|
 | 2026 – present | 🔬 **PhD in Computer Science** *(in progress)* | UFMA / UFPI |
 | 2023 – 2025 | 🎓 **MSc in Computer Science** | UFMA |
-| 2025 - 2025 | 📋 Postgraduate Specialization in Biotechnology | UNYLEYA |
+| 2025 – 2025 | 📋 Postgraduate Specialization in Biotechnology | UNYLEYA |
 | 2022 – 2023 | 💼 Postgraduate Specialization in Business Management | UNICSUL |
 | 2021 – 2022 | 📐 Postgraduate Specialization in Data Analysis & Applied Mathematics | UNYLEYA |
 | 2019 – 2025 | 🖥️ **BSc in Computer Science** | UFMA |
